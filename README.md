@@ -1,5 +1,4 @@
-
-![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[HARISH CHOPADE](https://github.com/harishchopade) <img src="./img/wave.gif" width="30px" height="30px" />
+<h2 align="left">Harish Chopade</h2>
 <img  alt="Coding" width="400" src="https://github.com/harishchopade/harishchopade/blob/main/thoughtworks-gif_dribbble.gif" align="right">
 
 - 🌱 I’m currently learning **MERN Stack**
